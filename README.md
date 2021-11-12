@@ -2,9 +2,15 @@ CoWFC
 =
 ##### Front- and back -end website for the DWC network server emulator
 
+### ⚠️ PHP Error ⚠️
+Following the updates of the repos it seems that the version of PHP used by the script is not installable any more.\
+If you have a problem and managed to make the CoWFC server work with another version do not hesitate to make a pull request!
+
 🔨 Contributing
 -
-Please open pull requests for the dev branch.
+Please open pull requests for the dev branch.\
+I don't have time to take care of this fork anymore, it is not up to date compared to the initial version and will require some work to be updated following the removal of some features used by this fork which are not present on the original version.
+I invite you first of all to participate in the development of the original project and secondly to try to update this version, I will accept with pleasure pull requests.
 
 📝 How to use
 -
