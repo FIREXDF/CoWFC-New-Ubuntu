@@ -17,20 +17,20 @@ I invite you first of all to participate in the development of the original proj
 
 📝 How to use
 -
-First, you will need to be running on Ubuntu 14.04 or 16.04 or Debian 10. Otherwise the [setup script](https://github.com/EnergyCube/cowfc_installer) will not run.\
+First, you will need to be running on Ubuntu 14.04 or 16.04 or Debian 10. Otherwise the [setup script](https://github.com/FIREXDF/cowfc_installer) will not run.\
 ❌ Debian 10 : LAN Reported not working ! Only tested on a VPS using a domain name)
 
 Please run the following command below to get started:
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ubuntu_logo.svg/100px-Ubuntu_logo.svg.png)
 
-`mkdir /var/www ; cd /var/www && wget https://raw.githubusercontent.com/EnergyCube/cowfc_installer/master/cowfc.sh && chmod +x cowfc.sh && ./cowfc.sh`
+`mkdir /var/www ; cd /var/www && wget https://raw.githubusercontent.com/FIREXDF/cowfc_installer-New-Ubuntu/master/cowfc.sh && chmod +x cowfc.sh && ./cowfc.sh`
 
 After system reboot : `cd /var/www && ./cowfc.sh`
 
 ![image](https://www.debian.org/logos/openlogo-nd-25.png) Debian
 ----
 
-`wget https://raw.githubusercontent.com/EnergyCube/cowfc_installer/master/cowfc-debian.sh && chmod +x cowfc-debian.sh && ./cowfc-debian.sh`
+`wget https://raw.githubusercontent.com/FIREXDF/cowfc_installer-New-Ubuntu/master/cowfc.sh && chmod +x cowfc-debian.sh && ./cowfc-debian.sh`
 
 ## Features
 - Stats page shows who is online by game/country
