@@ -1,6 +1,9 @@
-CoWFC
+CoWFC for newer Ubuntu version
 =
 ##### Front- and back -end website for the DWC network server emulator
+
+# ⚠️ THIS PROJECT CAN HAVE PROBLEMS ⚠️
+## This project are only for running on new version of Ubuntu not for having new update on the project, i don't have the skills for making security update on the project.
 
 ### ⚠️ PHP Error ⚠️
 Following the updates of the repos it seems that the version of PHP used by the script is not installable any more.\
